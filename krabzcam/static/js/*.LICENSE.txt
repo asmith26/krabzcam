@@ -1,0 +1,19 @@
+
+/**
+ * @license
+ * Flo-mat  <https://www.npmjs.com/package/flo-mat>
+ * Released under MIT license <https://www.npmjs.com/package/flo-mat#license>
+ */
+
+/**
+ * @license
+ * Path-that-svg <https://www.npmjs.com/package/path-that-svg/>
+ * Released under MIT license
+ */
+
+/**
+ * @license
+ * FFlate <https://www.npmjs.com/package/fflate/>
+ * Released under MIT license <https://github.com/101arrowz/fflate/blob/HEAD/LICENSE/>
+ */
+
